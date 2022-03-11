@@ -29,3 +29,6 @@ Nesta página são utilizados os seguintes recursos:
 11 - Tags de títulos (h1, h2, h3...) personalizadas para título, e tags p para escrita de textos Loren Ipsum nas páginas.
 
 12 - Por fim, foi utilizado conhecimento de entidades HTML para uso de caracter especial de direitos de cópia no rodapé e texto do rodapé com alinhamento centralizado.
+
+13 - Adicionei meta tags SEO para melhorar resultados de buscas nos motores buscadores, como exemplo o google. 
+Obs: Não estão editadas ainda.
